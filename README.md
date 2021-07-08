@@ -46,5 +46,10 @@ _ _ _
 
 ### HTML coding
 
+#### Screenshot Javascript:
+![HTML coding](images/htmlcoding.PNG)
+
+_ _ _
+
 
 ### Job done!
