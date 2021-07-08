@@ -36,3 +36,13 @@ _ _ _
 * With totally 5 filter criteria, canbe used all or running at any combination, or missing any number of criterias, as long as there is still at least one criteria left. Please try.
    
 - - -
+
+### Javascript
+
+#### Screenshot Javascript:
+![Javascript](images/coding.PNG)
+
+_ _ _
+
+
+### Job done!
