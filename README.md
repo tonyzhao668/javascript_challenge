@@ -6,6 +6,9 @@ Tony Zhao finished 22/03/2021
 
 ### Level 1: Automatic Table and Date Search
 
+#### Screenshot Level 1:
+![Screenshot](images/level1.PNG)
+
 * Create a basic HTML web page.
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to the web page and then adds new rows of data for each UFO sighting.
@@ -17,6 +20,9 @@ Tony Zhao finished 22/03/2021
 _ _ _
 
 ### Level 2: Multiple Search Categories
+
+#### Screenshot Level 2:
+![Screenshot](images/level2.PNG)
 
 * Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
