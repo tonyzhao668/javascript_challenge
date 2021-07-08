@@ -46,7 +46,7 @@ _ _ _
 
 ### HTML coding
 
-#### Screenshot Javascript:
+#### Screenshot HTML coding:
 ![HTML coding](images/htmlcoding.PNG)
 
 _ _ _
