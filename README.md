@@ -2,7 +2,11 @@
 
 Tony Zhao finished 22/03/2021 
 
-* Details as follows:
+* Task details as follows:
+
+### Final website show link:
+
+[UFO Finder](https://tonyzhao668.github.io/javascript_challenge/)
 
 ### Level 1: Automatic Table and Date Search
 
